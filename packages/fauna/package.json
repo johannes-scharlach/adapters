@@ -9,7 +9,7 @@
     },
     "scripts": {
         "build": "tsc",
-        "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
+        "lint": "eslint '*/**/*.{js,ts,tsx}' --fix",
         "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,json}' --config ./.prettierrc.js"
     },
     "author": "Bhanu Teja P",
